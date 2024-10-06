@@ -178,3 +178,14 @@ footer{
     color: #FCC21B;
 
 }
+
+
+.footer_a:hover {
+    color: yellow;
+    font-size: 18px;
+  }
+
+.icons:hover{
+    color: yellow;
+    font-size: 40px;
+}
